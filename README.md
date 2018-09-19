@@ -18,4 +18,4 @@ A callback function is a function passed to another function as an argument
 4. Before you can use a separate Module, in your code you must first _____require______ it. (fill in the blank)
 
 
-5. A __HTTP request header__ refers to a URI where you can send an API request to. (fill in the blank) 
+5. A __Endpoint__ refers to a URI where you can send an API request to. (fill in the blank) 
